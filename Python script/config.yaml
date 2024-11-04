@@ -1,0 +1,7 @@
+api:
+  url: "https://dummyapi.online/api/movies"
+  timeout: 10
+database:
+  url: "sqlite:///mydatabase.db"
+logging:
+  level: "INFO"
